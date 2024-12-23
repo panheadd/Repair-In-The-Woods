@@ -12,5 +12,4 @@ macOS intel 64-bit + Apple silicon: https://drive.google.com/drive/folders/111YQ
 
 
 
-![Uploading Ekran Resmi 2024-12-22 19.00.57.png…]()
 
